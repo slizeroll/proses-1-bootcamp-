@@ -1,0 +1,11 @@
+.banner {
+    background: linear-gradient(rgba(0, 0, 0, 1.0),rgba(0,0,0,0.5)), url("https://raw.githubusercontent.com/slizeroll/ArdsnowWebb/main/1.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;  
+    color: #fff;
+}
+
+.portofolio {
+    padding-top: 2rem;
+    background-color: #0a817b;
+}
